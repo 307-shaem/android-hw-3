@@ -1,0 +1,5 @@
+int value=array[0]; 
+
+char:'k'
+
+doubie:"هذا جمله"
